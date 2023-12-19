@@ -1,2 +1,2 @@
-0 Banana
-1 Mango
+Banana
+Mango
